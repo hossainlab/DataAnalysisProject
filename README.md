@@ -25,27 +25,6 @@
   - Hypothesis Testing(T-Test, Z-Test, Chi-square, ANOVA)
   - Creating Predicting Models
 
-## Project Lists
-## Business
-- [Project1]()
-- [Project2]()
-- [Project3]()
-- [Project4]()
-- [Project5]()
-- [Project6]()
-
-## Health
-- [Project1]()
-- [Project2]()
-- [Project3]()
-- [Project4]()
-- [Project5]()
-- [Project6]()
-
 ## Data Sources
-- [Weather Dataset](https://www.kaggle.com/muthuj7/weather-dataset)
-- [Data Sources2]()
-- [Data Sources3]()
-- [Data Sources4]()
-- [Data Sources5]()
-- [Data Sources6]()
+- Weather Dataset: https://www.kaggle.com/muthuj7/weather-dataset
+- Drug Reviews: https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29
